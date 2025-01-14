@@ -1,0 +1,24 @@
+Key Technical Considerations:
+
+Service Separation:
+
+Spring for administrative API
+Clear boundary definition between services
+
+Data Flow:
+
+Event-driven architecture principles
+Clear event schemas
+Proper error handling and dead letter queues
+
+Performance:
+
+Connection pooling
+Caching strategies
+Resource limits
+
+Scalability:
+
+Stateless services
+Horizontal scaling capabilities
+Load balancing strategies
