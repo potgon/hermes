@@ -1,4 +1,4 @@
-# Hermes
-Hermes is a serverless, event-driven backend system designed to process and handle real-time financial events efficiently. Hermes ingests, validates, and distributes events such as transactions, alerts, and account updates, providing users with instant notifications and a live view of their data.
+# Hermes 🛡️
+A real-time fraud detection system for financial transactions, designed to identify and mitigate suspicious activities with high accuracy and low latency.
 
-The system utilizes AWS serverless architecture (Fargate, SNS, SQS...), a Java/Kotlin backend, and integrates monitoring tools like Prometheus and Grafana for comprehensive real-time analytics. Hermes is built to be scalable, fault-tolerant, and optimized for high-throughput event processing, making it ideal for financial and transactional applications.
+Hermes leverages event-driven architecture, advanced machine learning models, and rule-based logic to provide scalable, resilient, and efficient fraud detection in dynamic financial environments.
