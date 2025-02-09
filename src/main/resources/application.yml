@@ -1,7 +1,3 @@
 spring:
   application:
     name: Hermes
-  cloud:
-    aws:
-      credentials:
-        profile: "~/home/petru/.aws/credentials"

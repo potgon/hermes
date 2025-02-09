@@ -1,4 +1,4 @@
-package dev.potgon.Hermes.application;
+package dev.potgon.Hermes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
